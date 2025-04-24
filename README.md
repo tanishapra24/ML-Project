@@ -1,2 +1,2 @@
 Multiple Disease Prediction System is a machine learning-trained Streamlit web application that predicts potential diseases based on user-inputted symptoms. It intelligently combines predictions from a trained ML model with a rule-based symptom matching approach to enhance diagnostic accuracy. Users receive disease predictions supported by model confidence scores and matching symptom details. The app also features a chatbot assistant for health-related queries and a dynamic risk meter to visually represent the severity of predicted conditions. Additionally, it offers nearby doctor recommendations, health tips, and a user-friendly interface to encourage timely medical attention.
-This is a small update to test branch.
+
